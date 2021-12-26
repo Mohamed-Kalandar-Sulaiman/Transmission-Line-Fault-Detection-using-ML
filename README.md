@@ -1,5 +1,5 @@
 # Transmission-Line-Fault-Detection-using-ML
-Hey there !!! \n
+Hey there !!! 
 I did this miniproject as a part of my academic elective course "Programming with Python".
 I hope the ipynb file itself is self explanatory. Also you need not install any software or libraries for running this code. 
 Open ipynb file in Google colab and do the below steps...
@@ -20,3 +20,8 @@ Algorithms:
 •SupportVectorMachine
 •MultiLayerPerceptron
 
+Python Packages used...
+•Pandas
+•MatplotLib
+•Seaborn
+•SciKit Learn
