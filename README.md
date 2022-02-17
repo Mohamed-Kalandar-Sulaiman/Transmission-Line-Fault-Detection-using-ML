@@ -7,7 +7,6 @@ To download and use CSV file follow these steps ....................
 https://evidencen.com/how-to-upload-your-csv-file-online/
 once the csv file gets accessed , preview the csv file .
 :)
-
 Features : Va,Vb,Vc, Ia, Ib ,Ic
 Target   : Fault 
 
